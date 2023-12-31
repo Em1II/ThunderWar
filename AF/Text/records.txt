@@ -1,5 +1,0 @@
-10;1;2dfgdfgdf
-100;2;2fdgdfg
-10;3;2dfgdfg
-10;4;2dfgdfg
-103;5;2dfgdfg
